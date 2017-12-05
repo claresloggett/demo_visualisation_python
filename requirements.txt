@@ -1,0 +1,12 @@
+jupyter
+pandas
+flask
+matplotlib
+seaborn
+bokeh
+holoviews
+plotly
+dash
+dash-renderer
+dash-html-components
+dash-core-components
